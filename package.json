@@ -1,0 +1,11 @@
+{
+  "name": "backend_tutorial",
+  "version": "1.0.0",
+  "description": "A Backend series by Chai aur Code",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "author": "Hitesh Sir",
+  "license": "ISC"
+}
